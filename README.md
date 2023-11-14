@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 -->
 
-<h1>These are the programs/programming languages that I have used.</h1>
+### These are the programs/programming languages that I have used
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,androidstudio,java,cs,mysql,git,github,eclipse,vscode)](https://skillicons.dev)
 
 <!--
 **Snakeyesmp/Snakeyesmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
