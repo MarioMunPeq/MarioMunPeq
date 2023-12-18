@@ -1,4 +1,4 @@
-<img src="https://images3.alphacoders.com/115/1152331.jpg" alt="Banner Image"/>
+<img src="OuterWildsCampfire.jpg" alt="Banner Image"/>
 
 <h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
 
