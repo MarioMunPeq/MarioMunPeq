@@ -1,6 +1,9 @@
 <!-- ### Hi there 👋 -->
 
-### These are the programs/programming languages that I have used
+<h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
+
+
+<h3 align="center">Languages and Tools</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,androidstudio,java,cs,mysql,git,github,eclipse,vscode)](https://skillicons.dev)
 
