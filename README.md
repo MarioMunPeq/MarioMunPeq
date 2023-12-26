@@ -5,4 +5,4 @@
 
 <h3 align="center">Languages and Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,androidstudio,java,cs,mysql,git,github,eclipse,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,kotlin,java,git,github,cs,mysql,sqlite,html,css,)](https://skillicons.dev)
