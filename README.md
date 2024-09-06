@@ -24,4 +24,4 @@ const Mario = {
 [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,androidstudio,kotlin,java,git,github,cs,mysql,sqlite,html,css,)](https://skillicons.dev)
 
 
-![Snakeyesmp's GitHub stats](https://github-readme-stats.vercel.app/api?username=snakeyesmp&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![MarioMunPeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariomunpeq&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
