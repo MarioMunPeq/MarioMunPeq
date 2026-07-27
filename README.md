@@ -2,12 +2,13 @@
 
 <img src="OuterWildsCampfire.jpg" alt="Banner Image"/>
 
-Software developer from Spain 🇪🇸
+Desarrollador de Software
 
 Interested in Artificial Intelligence, backend development, automation and game development.
 
-Currently building personal projects while continuing to learn new technologies.
+Interesado en Inteligencia Artificial, Desarrollo Backend y Desarrollo de videojuegos.
 
+Desarrollando proyectos personales para aprender y pasar el rato
 
 [![Linkedin: MarioMuñozPequeño](https://img.shields.io/badge/-MarioMuñozPequeño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-muñoz-pequeño/)](https://www.linkedin.com/in/mario-muñoz-pequeño/)
 
@@ -18,10 +19,9 @@ const Mario = {
   studies: ["Multiplatform application development", "Industrial automation and robotics", "Telecommunications"],
   languages: ["Java", "C#", "Kotlin", "HTML", "CSS", "SQL"],
   tools: ["Git", "VSCode", "Android Studio", "Unity"],
-  challenge: "I want to make significant contributions to the world of computer science"
+  challenge: "Pasarlo bien"
 }
 ```
-
 
 <h3 align="center">Languages and Tools</h3>
 
