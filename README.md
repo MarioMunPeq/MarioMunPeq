@@ -1,28 +1,59 @@
-<h1 align="center">Hi 👋, I'm Mario Muñoz</h1>
+<h1 align="center">Mario Muñoz</h1>
 
-<img src="OuterWildsCampfire.jpg" alt="Banner Image"/>
+<p align="center">
+Desarrollador de software
+</p>
 
-Desarrollador de Software
+<img src="OuterWildsCampfire.jpg" alt="Banner"/>
 
-Interested in Artificial Intelligence, backend development, automation and game development.
+---
 
-Interesado en Inteligencia Artificial, Desarrollo Backend y Desarrollo de videojuegos.
+Construyo proyectos personales porque me gusta entender cómo funcionan las cosas.
 
-Desarrollando proyectos personales para aprender y pasar el rato
+Me interesan especialmente el desarrollo backend, las aplicaciones web, la automatización y el procesamiento de datos. Disfruto diseñando proyectos que puedan crecer con el tiempo, cuidando tanto la arquitectura como los pequeños detalles de la implementación.
 
-[![Linkedin: MarioMuñozPequeño](https://img.shields.io/badge/-MarioMuñozPequeño-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mario-muñoz-pequeño/)](https://www.linkedin.com/in/mario-muñoz-pequeño/)
+Actualmente dedico mi tiempo libre a desarrollar herramientas y aplicaciones que me permiten aprender tecnologías nuevas mientras intento resolver problemas reales.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Few things about me...  
+## Proyectos
 
-```javascript
-const Mario = {
-  studies: ["Multiplatform application development", "Industrial automation and robotics", "Telecommunications"],
-  languages: ["Java", "C#", "Kotlin", "HTML", "CSS", "SQL"],
-  tools: ["Git", "VSCode", "Android Studio", "Unity"],
-  challenge: "Pasarlo bien"
-}
-```
+### Dungeon Archive
 
-<h3 align="center">Languages and Tools</h3>
+Aplicación web para consultar contenido de D&D 5e de forma rápida y completamente offline.
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,kotlin,cs,mysql,git,github,vscode,androidstudio,godot,unity,html,css)](https://skillicons.dev)
+Actualmente incluye un pipeline de importación, transformación e indexación de miles de entidades procedentes de diferentes fuentes, priorizando el rendimiento y la facilidad de búsqueda.
+
+**Tecnologías**
+
+- React
+- TypeScript
+- IndexedDB
+- Vite
+
+---
+
+### Cosmere Archive
+
+Biblioteca interactiva inspirada en el universo de Brandon Sanderson.
+
+El objetivo no es construir una wiki, sino una experiencia visual con mapas, estanterías, árboles genealógicos y modelos 3D que transmitan la sensación de explorar un archivo real.
+
+**Tecnologías**
+
+- React
+- TypeScript
+- React Three Fiber
+- Framer Motion
+
+---
+
+## Tecnologías
+
+TypeScript · React · Java · Python · SQL · Git
+
+He trabajado también con Kotlin, C#, Android y Unity, aunque actualmente la mayoría de mis proyectos personales están orientados al desarrollo web.
+
+---
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/mario-muñoz-pequeño/
