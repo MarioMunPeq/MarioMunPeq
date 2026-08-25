@@ -80,23 +80,6 @@ Proyecto personal sobre el universo de Brandon Sanderson, desarrollado con React
 
 <br/>
 
-## Estadísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MarioMunPeq&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioMunPeq&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioMunPeq&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 *Viaje antes que destino.*
 
 </div>
